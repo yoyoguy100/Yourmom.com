@@ -32,7 +32,7 @@ figure {
 }
 .dkjk {
             /* Makes the image always take up exactly 80% of the screen width */
-            width: 80vw; 
+            width: 95vw; 
             
             /* Keeps the image aspect ratio perfect so it doesn't stretch or distort */
             height: auto; 
@@ -41,5 +41,5 @@ figure {
             margin: 5vw auto; 
             
             /* Ensures it centers nicely on the page */
-            display: block; 
+            display: center; 
         }
